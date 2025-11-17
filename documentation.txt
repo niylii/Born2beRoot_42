@@ -1,0 +1,21 @@
+* everything abt debain vs rocky 
+* AppArmor for Debian must be running at startup too |  SELinux
+* differences between aptitude and apt
+*  encrypted partitions using LVM
+* SSH service will be running on the mandatory port 4242
+*  UFW (or firewalld for Rocky'
+* The TTY mode has to be enabled for security reasons
+--------
+* The architecture of your operating system and its kernel version
+* The number of -physical | -virtual processors.
+*  The current available -RAM | -storage on your server and its utilization rate as a percentage.
+* The current utilization rate of your processors as a percentage
+* The date and time of the last reboot.
+* Whether LVM is active or not.
+* The number of active connections | users using the server
+* The IPv4 address of your server and its MAC (Media Access Control) address
+* The number of commands executed with the sudo program.
+----
+• Set up a functional WordPress website with the following services: lighttpd, MariaDB, and PHP.
+• Set up a service of your choice that you think is useful (NGINX / Apache2 excluded!). During the defense, you will have to justify your choice.
+
