@@ -1,0 +1,8 @@
+#IN the  /etc/ssh/sshd_config file
+
+Port 4242
+PermitRootLogin no
+
+#IN the /etc/ssh/ssh_config file 
+
+Port 4242
