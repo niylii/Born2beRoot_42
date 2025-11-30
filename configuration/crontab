@@ -1,3 +1,6 @@
 Using crontab is not a good deal since it uses the timezone thing;
 instead used the while true do thing on the script so ...
 */10 * * * * /home/username/monitoring.sh
+
+so instead we do :
+@reboot sh /home/username/monitoring.sh
