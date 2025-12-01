@@ -1,0 +1,7 @@
+Lighttpd is the web server I use for WordPress. (which is a content manager system)
+It serves the static files like images, CSS, and HTML.
+But Lighttpd itself cannot run PHP code, so it uses FastCGI to pass PHP requests to PHP-FPM, which is the process that actually executes the PHP scripts.
+PHP-FPM runs the PHP interpreter efficiently in the background, manages multiple PHP worker processes, and sends the results back to Lighttpd.
+MariaDB is the SQL database where WordPress stores all its data — users, posts, settings, everything.
+All three are linked: Lighttpd handles the HTTP traffic, PHP-FPM processes the dynamic PHP pages, and MariaDB stores the data.
+Together they make the WordPress site load correctly in the browser.”
