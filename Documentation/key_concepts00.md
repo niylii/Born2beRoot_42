@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# well jst make it a bit professional
-
 This glossary presents the key technical terms from the Born2beRoot project in clear, structured, and professional language, while remaining beginner‑friendly.
 
 ***
