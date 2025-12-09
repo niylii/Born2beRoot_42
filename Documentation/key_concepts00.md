@@ -5,7 +5,7 @@ This glossary presents the key technical terms from the Born2beRoot project in c
 ## 1. Basic concepts
 
 - **Server**
-A server is a computer designed to provide services to other machines, such as SSH access, web pages, or file sharing, usually running continuously and remotely administered.[^1][^2]
+A server is a computer designed to provide services to other machines, such as SSH access, web pages, or file sharing, usually running continuously and remotely administered.
 - **Set up a server**
 Setting up a server means installing the operating system and configuring services, security, and networking so the machine can safely deliver specific functionalities to users.
 - **Service**
