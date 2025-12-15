@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# The script bellow can either use the while loop with the right crontab time configuration or can be run without but again with the right crontab time configuration ...
 while true; do 
 
 	#disk usage:
